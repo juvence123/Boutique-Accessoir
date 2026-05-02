@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -53,8 +53,8 @@
 
     function afficherResultat() {
         document.getElementById("resultat").innerHTML =
-            "Mampilalao : " + votes["Choix 1"] + " votes<br>" +
-            "Mampianatra : " + votes["Choix 2"] + " votes";
+            "Mampilalao  : " + votes["Choix 1"] + " votes<br>" +
+            "Mampianatra  : " + votes["Choix 2"] + " votes";
     }
 </script>
 
